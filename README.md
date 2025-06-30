@@ -3,6 +3,10 @@
 This project uses **MediaPipe** and **OpenCV** to detect a hand using webcam and track landmarks like fingertips and palm. When the index finger and thumb are touched together, a circle is drawn on the screen and a counter is incremented.
 
 ---
+### Here is Demo:
+![Demo](Project_GIF_Clip.gif)
+
+---
 
 ## 📸 Features
 
